@@ -1,0 +1,4 @@
+https://hls.ted.com/videos/EmmaBryce_EndocrineSystem_2018E/video/600k.m3u8?nobumpers=true&qr=true&uniqueId=6a48f910
+https://hls.ted.com/videos/EmmaBryce_EndocrineSystem_2018E/audio/600k.m3u8?nobumpers=true&qr=true&uniqueId=6a48f910
+https://hls.ted.com/videos/EmmaBryce_EndocrineSystem_2018E/video/600k.m3u8?nobumpers=true&qr=true&uniqueId=82f8edff
+https://hls.ted.com/videos/MelodySmith_BoneMarrowTransplant_2018E/audio/600k.m3u8?nobumpers=true&qr=true&uniqueId=82f8edff

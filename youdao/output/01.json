@@ -1,0 +1,72 @@
+{
+    "tSpeakUrl": "http://openapi.youdao.com/ttsapi?q=%E6%B2%BB%E7%96%97&langType=zh-CHS&sign=928D2540ADD60AA0677F5524AF6E09B3&salt=1587482574235&voice=4&format=mp3&appKey=0eab2b213ecebbb4",
+    "returnPhrase": [
+        "treatment"
+    ],
+    "web": [
+        {
+            "value": [
+                "治疗",
+                "处理",
+                "待遇",
+                "对待"
+            ],
+            "key": "Treatment"
+        },
+        {
+            "value": [
+                "优惠待遇",
+                "特惠待遇",
+                "优待",
+                "优抚对象"
+            ],
+            "key": "preferential treatment"
+        },
+        {
+            "value": [
+                "会计处理",
+                "会计处理方式",
+                "账务处理",
+                "管帐措置惩罚"
+            ],
+            "key": "accounting treatment"
+        }
+    ],
+    "query": "treatment",
+    "translation": [
+        "治疗"
+    ],
+    "errorCode": "0",
+    "dict": {
+        "url": "yddict://m.youdao.com/dict?le=eng&q=treatment"
+    },
+    "webdict": {
+        "url": "http://m.youdao.com/dict?le=eng&q=treatment"
+    },
+    "basic": {
+        "exam_type": [
+            "IELTS",
+            "初中",
+            "CET4",
+            "商务英语"
+        ],
+        "us-phonetic": "ˈtriːtmənt",
+        "phonetic": "ˈtriːtmənt",
+        "uk-phonetic": "ˈtriːtmənt",
+        "wfs": [
+            {
+                "wf": {
+                    "name": "复数",
+                    "value": "treatments"
+                }
+            }
+        ],
+        "uk-speech": "http://openapi.youdao.com/ttsapi?q=treatment&langType=en&sign=21D8001C2DC616EA07660A05575CB2A5&salt=1587482574235&voice=5&format=mp3&appKey=0eab2b213ecebbb4",
+        "explains": [
+            "n. 治疗，疗法；处理；对待"
+        ],
+        "us-speech": "http://openapi.youdao.com/ttsapi?q=treatment&langType=en&sign=21D8001C2DC616EA07660A05575CB2A5&salt=1587482574235&voice=6&format=mp3&appKey=0eab2b213ecebbb4"
+    },
+    "l": "en2zh-CHS",
+    "speakUrl": "http://openapi.youdao.com/ttsapi?q=treatment&langType=en&sign=21D8001C2DC616EA07660A05575CB2A5&salt=1587482574235&voice=4&format=mp3&appKey=0eab2b213ecebbb4"
+}

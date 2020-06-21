@@ -1,0 +1,2 @@
+# Opencv install
++ `sudo pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple/`
